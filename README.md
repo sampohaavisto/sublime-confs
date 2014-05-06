@@ -1,0 +1,4 @@
+sublime-confs
+=============
+
+For Mac.
