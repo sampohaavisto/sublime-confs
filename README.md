@@ -1,4 +1,4 @@
 sublime-confs
 =============
 
-For Mac.
+Note to self. Mac confs.

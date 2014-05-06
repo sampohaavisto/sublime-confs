@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CoffeeScript",
+		"Color Highlighter",
+		"Cucumber",
+		"Emmet",
+		"Git",
+		"Indent XML",
+		"MacTerminal",
+		"Package Control",
+		"Ruby Slim",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeCodeIntel"
+	]
+}
