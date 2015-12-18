@@ -1,9 +1,31 @@
 {
+	"binary_file_patterns":
+	[
+		"node_modules/*",
+		"tmp/*",
+		"*.jpg",
+		"*.png",
+		"*.tar",
+		"*.tar.gz",
+		"*.tgz",
+		"*.zip"
+	],
+	"folder_exclude_patterns":
+	[
+		".bundle",
+		".git",
+		".svn",
+		".vagrant",
+		"cache",
+		"CVS",
+		"tmp",
+		"wp-admin",
+		"wp-includes"
+	],
 	"font_size": 12.0,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Color Highlighter"
+		"Vintage"
 	],
 	"rulers":
 	[
