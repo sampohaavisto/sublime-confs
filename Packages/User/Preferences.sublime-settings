@@ -3,8 +3,12 @@
 	[
 		"node_modules/*",
 		"tmp/*",
+		"*.7z",
+		"*.exe",
 		"*.jpg",
 		"*.png",
+		"*.rar",
+		"*.scssc",
 		"*.tar",
 		"*.tar.gz",
 		"*.tgz",
@@ -12,8 +16,10 @@
 	],
 	"folder_exclude_patterns":
 	[
+		"etc/import/",
 		".bundle",
 		".git",
+		".sass-cache",
 		".svn",
 		".vagrant",
 		"cache",
