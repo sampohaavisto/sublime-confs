@@ -30,7 +30,6 @@
     "lib/ngCordova*",
     ".github",
     ".vscode",
-    "fast-magento/dev",
     ".bundle",
     ".git",
     ".sass-cache",
