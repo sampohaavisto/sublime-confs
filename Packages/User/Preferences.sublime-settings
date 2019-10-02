@@ -1,42 +1,55 @@
 {
-	"binary_file_patterns":
-	[
-		"node_modules/*",
-		"tmp/*",
-		"*.7z",
-		"*.exe",
-		"*.jpg",
-		"*.png",
-		"*.rar",
-		"*.scssc",
-		"*.tar",
-		"*.tar.gz",
-		"*.tgz",
-		"*.zip"
-	],
-	"folder_exclude_patterns":
-	[
-		"etc/import/",
-		".bundle",
-		".git",
-		".sass-cache",
-		".svn",
-		".vagrant",
-		"cache",
-		"CVS",
-		"tmp",
-		"wp-admin",
-		"wp-includes"
-	],
-	"font_size": 12.0,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"rulers":
-	[
-		100
-	],
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true
+  "binary_file_patterns": [
+    "build/*",
+    "wp-admin/*",
+    "wp-includes/*",
+    "node_modules/*",
+    "tmp/*",
+    "*.7z",
+    "*.exe",
+    "*.jpg",
+    "*.pem",
+    "*.png",
+    "*.rar",
+    "*.scssc",
+    "*.sql",
+    "*.tar",
+    "*.tar.gz",
+    "*.tgz",
+    "media/css/**/*.css",
+    "*.zip"
+  ],
+  "caret_extra_bottom": 2,
+  "caret_extra_top": 2,
+  "caret_extra_width": 1.5,
+  "caret_style": "smooth",
+  "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+  "default_line_ending": "unix",
+  "folder_exclude_patterns": [
+    "plugins/cordova*",
+    "lib/ngCordova*",
+    ".github",
+    ".vscode",
+    "fast-magento/dev",
+    ".bundle",
+    ".git",
+    "theme_development_anssi",
+    "theme_development_",
+    ".sass-cache",
+    ".svn",
+    ".vagrant",
+    "cache",
+    "CVS",
+    "tmp"
+  ],
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "original_color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+  "rulers": [
+    100
+  ],
+  "tab_size": 2,
+  "theme": "Gravity.sublime-theme",
+  "translate_tabs_to_spaces": true
 }
