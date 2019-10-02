@@ -33,8 +33,6 @@
     "fast-magento/dev",
     ".bundle",
     ".git",
-    "theme_development_anssi",
-    "theme_development_",
     ".sass-cache",
     ".svn",
     ".vagrant",
